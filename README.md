@@ -1,16 +1,21 @@
-### Hi there 👋
+# Maxlinn
 
-<!--
-**Maxlinn/Maxlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronunced as 'Maxine' with an extra L. &nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) 
 
-Here are some ideas to get you started:
+## Developing Taste
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=maxlinn&count_private=true&show_icons=true" alt="wakatime" align="right">
+
+1. Love readable, semantic and concise code, priority decreases.
+2. Love the structuralized more than the non-structuralized. Writings should be hierarchical, self-contained and short.
+3. Love clear and fast software more than fancy but slow ones.
+4. Hate repetitive work.
+
+## Education
+
+1. Currently an undergraduate of Computer Science in a great university.
+2. Incoming master student of Artifical Intelligence in another great university.
+
+## How am i this week
+
+[![Maxlinn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxlinn)](https://github.com/anuraghazra/github-readme-stats)
