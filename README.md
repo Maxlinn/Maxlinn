@@ -1,6 +1,6 @@
 # Maxlinn
 
-Pronunced as 'Maxine' with an extra L. &nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) 
+Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) 
 
 ## Developing Taste
 
@@ -13,9 +13,9 @@ Pronunced as 'Maxine' with an extra L. &nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](htt
 
 ## Education
 
-1. Currently an undergraduate of Computer Science in a great university.
-2. Incoming master student of Artifical Intelligence in another great university.
+1. Currently an undergraduate of Computer Science in Beijing University of Posts and Telecommunications.<br>Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
+2. Incoming master student of Artifical Intelligence of Artificial Intelligence in Renming University of China.<br>Focusing on *Natural Language Processing*.
 
-## How am i this week
+## How am i this week(May not accurate)
 
 [![Maxlinn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxlinn)](https://github.com/anuraghazra/github-readme-stats)
