@@ -13,9 +13,15 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
 
 ## Education
 
-1. Currently an undergraduate of Computer Science in Beijing University of Posts and Telecommunications.<br>Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
-2. Incoming master student of Artifical Intelligence of Artificial Intelligence in Renming University of China.<br>Focusing on *Natural Language Processing*.
+1. Currently an undergraduate of Computer Science in Beijing University of Posts and Telecommunications.
+    - Among top schools of Computer Science in China.
+    - Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
+2. Incoming master student of Artifical Intelligence of Artificial Intelligence in Renming University of China.
+    - Among top schools of Artifical Intelligence in China.
+    - Focusing on *Natural Language Processing*, currently researching on *chatbots*.
 
-## How am i this week(May not accurate)
+## How am i this week
+
+May not accurate, some tools don't support wakatime tracker.
 
 [![Maxlinn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxlinn)](https://github.com/anuraghazra/github-readme-stats)
