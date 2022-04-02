@@ -16,7 +16,7 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
 1. Currently an undergraduate of Computer Science in Beijing University of Posts and Telecommunications.
     - Among top schools of Computer Science in China.
     - Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
-2. Incoming master student of Artifical Intelligence of Artificial Intelligence in Renming University of China.
+2. Incoming master student of Artifical Intelligence in Renming University of China.
     - Among top schools of Artifical Intelligence in China.
     - Focusing on *Natural Language Processing*, currently researching on *chatbots*.
 
