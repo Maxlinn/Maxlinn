@@ -14,13 +14,13 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
 ## Education
 
 1. Currently an undergraduate of Computer Science in Beijing University of Posts and Telecommunications.
-    - Among top schools of Computer Science in China.
+    - Among top schools of Computer Science in China: A-Ranked by the Ministry of Education.
     - Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
-2. Incoming master student of Artifical Intelligence in Renming University of China.
-    - Among top schools of Artifical Intelligence in China.
+2. Incoming master student of Artifical Intelligence in Renmin University of China.
+    - Among top schools of Artifical Intelligence in China: Leading research agency of IR, NLP, CV and other AI-related topics.
     - Focusing on *Natural Language Processing*, currently researching on *chatbots*.
 
-## Coding Stats
+## Weekly Coding Stats
 
 May not accurate, some tools don't support wakatime tracker.
 
