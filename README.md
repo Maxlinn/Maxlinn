@@ -20,7 +20,7 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
     - Among top schools of Artifical Intelligence in China.
     - Focusing on *Natural Language Processing*, currently researching on *chatbots*.
 
-## How am i this week
+## Coding Stats
 
 May not accurate, some tools don't support wakatime tracker.
 
