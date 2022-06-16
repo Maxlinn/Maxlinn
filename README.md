@@ -25,3 +25,11 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
 May not accurate, some tools don't support wakatime tracker.
 
 [![Maxlinn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maxlinn)](https://github.com/anuraghazra/github-readme-stats)
+
+## Explanation of Empty Repositories
+
+You may discover that there are some many empty repositories created by me. These are the ideas come across me in my daily life. In the past i wrote them on memos or blogs, but now i think here is a more appropriate to store them.
+
+Due to the limitation of personal energy and skills, few of them were actually carried out, but I will fight to do more.
+
+Hope these ideas✨ would inspire you somehow :)
