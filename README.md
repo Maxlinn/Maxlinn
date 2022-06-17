@@ -18,7 +18,7 @@ Pronunced as 'Maxine' with an extra L. INTP of MBTI. [![wakatime](https://wakati
     - Acquiring CS background, including *Data Structures, Operating System, Database System, etc.*
 2. Incoming master student of Artifical Intelligence in Renmin University of China.
     - Among top schools of Artifical Intelligence in China: Leading research agency of IR, NLP, CV and other AI-related topics.
-    - Focusing on *Natural Language Processing*, currently researching on *chatbots*.
+    - Focusing on *Natural Language Processing*, currently researching on *multi-modality*, used to study *chatbots*.
 
 ## Weekly Coding Stats
 
@@ -28,7 +28,7 @@ May not accurate, some tools don't support a wakatime tracker.
 
 ## Explanation of Empty Repositories
 
-You may discover that there are so many empty repositories created by me. These are the ideas✨ come across me in my daily life. In the past i wrote them on memos or blogs, but now i think here is a more appropriate to collect them.
+You may discover that there are so many empty repositories created by me. These are the ideas✨ come across me in my daily life. In the past i wrote them on memos or blogs, but now here is more appropriate to collect them.
 
 Due to the limitation of personal energy and skills, few of them were actually carried out, but I will fight to do more.
 
