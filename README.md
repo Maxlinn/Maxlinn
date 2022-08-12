@@ -38,7 +38,7 @@ Hope these ideas✨ would inspire you somehow :)
 
 ## Commit History
 
-Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img).
+Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) .
 
-![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&flatten=2&animation=none&format=svg&weeks=35&theme=native&widget_size=midium)
+![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
