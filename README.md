@@ -40,5 +40,5 @@ Hope these ideas✨ would inspire you somehow :)
 
 Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img).
 
-<img src="https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&format=svg&weeks=40"/>
+![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&flatten=2&animation=none&format=svg&weeks=35&theme=native&widget_size=midium)
 
