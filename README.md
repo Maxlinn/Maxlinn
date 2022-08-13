@@ -15,9 +15,10 @@ Whether you do something or not, time passes after all.
 <img src="https://github-readme-stats.vercel.app/api?username=maxlinn&count_private=true&show_icons=true" alt="wakatime" align="right">
 
 1. Love readable, semantic and concise code.
-2. Love the structuralized more than the non-structuralized. Writings should be hierarchical, self-contained and short.
-3. Love clear and fast software more than fancy but slow ones.
-4. Hate repetitive work.
+2. Love the structuralized more than the non-structuralized. 
+Writings should be hierarchical, self-contained and easy-to-understand.
+3. Love clear and extensible software more than versatile but heavy ones.
+4. Hate repetitive or dull work.
 
 ## Education
 
@@ -38,7 +39,7 @@ Hope these ideas✨ would inspire you somehow :)
 
 ## Commit History
 
-Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) .
+Thanks to cool project [[CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img)]!
 
 ![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
