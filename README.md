@@ -29,17 +29,16 @@ Writings should be hierarchical, self-contained and easy-to-understand.
     - Top schools of AI in China: Leading research agency of IR, NLP, CV and other AI-related topics.
     - Currently focusing on *multi-modality*, used to study *chatbots*.
 
-## Explanation of Empty Repositories
-
-You may discover that there are so many empty repositories created by me. These are the ideas✨ come across me in my daily life. In the past i wrote them on memos or blogs, but now here is more appropriate to collect them.
-
-Due to the limitation of energy and skills, few of them were actually carried out, but I will fight to do more.
-
-Hope these ideas✨ would inspire you somehow :)
-
 ## Commit History
 
 Thanks to cool project [[CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img)]!
 
 ![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
+## Explanation of Empty Repositories
+
+You may discover that there are so many empty repositories created by me. These are the ideas✨ come across me in my daily life. In the past i wrote them on memos or blogs, but now here is more appropriate to collect them. Hope these ideas✨ would inspire you somehow :)
+
+Due to the limitation of energy and skills, few of them were actually carried out, but I will fight to do more.
+
+The repositories marked with my star⭐ are ongoing!
