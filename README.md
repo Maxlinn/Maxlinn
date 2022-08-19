@@ -2,7 +2,7 @@
 
 Pronunced as 'Maxine' with an extra L. INTP of MBTI. 
 
- [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) May not accurate, some tools don't support a wakatime tracker, QtCreator for example.
+![](https://komarev.com/ghpvc/?username=Maxlinn&color=blue) [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) Not accurate, some tools does not support the tracker.
 
 ## Motivation
 
@@ -29,9 +29,15 @@ Writings should be hierarchical, self-contained and easy-to-understand.
     - Top schools of AI in China: Leading research agency of IR, NLP, CV and other AI-related topics.
     - Currently focusing on *multi-modality*, used to study *chatbots*.
 
+## Internship
+
+1. Reaseach Assistant intern at Tencent AI-Lab, TEG(Technology and Engineering Group).
+    - Top companies of web services in China: Worldwide well-known tech giant of social media.
+    - Researching on NLP field, currently focusing on language model pretraining.
+
 ## Commit History
 
-Thanks to cool project [[CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img)]!
+Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img)!
 
 ![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
