@@ -27,21 +27,21 @@ Writings should be hierarchical, self-contained and easy-to-understand.
     - Acquired CS background, including *Data Structures, Operating System, Database System, etc.*
 2. Master student of Artificial Intelligence, Renmin University of China.
     - Top schools of AI in China: Leading research agency of IR, NLP, CV and other AI-related topics.
-    - Currently focusing on *multi-modality*, used to study *chatbots*.
+    - Currently focusing on *multi-modality* and *chatbots*.
 
 ## Internship
 
-1. Reaseach Assistant intern at Tencent AI-Lab, TEG(Technology and Engineering Group).
-    - Top companies of web services in China: Worldwide well-known tech giant of social media.
+1. Reaseach Assistant intern at Tencent AI Lab, Technology and Engineering Group. TEG for short.
+    - Top companies of web services in China: Worldwide famous tech giant of social media, interactive entertainment and cutting edge technologies.
     - Researching on NLP field, currently focusing on language model pretraining.
 
 ## Commit History
 
-Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img)!
+Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) from friend of Jike app!
 
 ![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
-## Explanation of Empty Repositories
+## Explanation About Empty Repositories
 
 You may discover that there are so many empty repositories created by me. These are the ideas✨ come across me in my daily life. In the past i wrote them on memos or blogs, but now here is more appropriate to collect them. Hope these ideas✨ would inspire you somehow :)
 
