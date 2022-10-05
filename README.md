@@ -1,14 +1,11 @@
 # Maxlinn
 
-Pronunced as 'Maxine' with an extra L. INTP of MBTI. 
+Pronunced as 'Maxine' with an extra L. ![](https://komarev.com/ghpvc/?username=Maxlinn&color=blue) [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32)
 
-![](https://komarev.com/ghpvc/?username=Maxlinn&color=blue) [![wakatime](https://wakatime.com/badge/user/2ed2491d-8242-4bfd-972a-8eed7c2abc32.svg)](https://wakatime.com/@2ed2491d-8242-4bfd-972a-8eed7c2abc32) Not accurate, some tools does not support the tracker.
+## Beliefs
 
-## Motivation
-
-You don't stop doing things because you grow old. You grow old because you stop doing things. *@TinyAdapter*
-
-Whether you do something or not, time passes after all.
+- You don't stop doing things because you grow old. You grow old because you stop doing things. *@TinyAdapter*
+- Everything seems easy when someone told you how.
 
 ## Taste
 
@@ -31,13 +28,13 @@ Writings should be hierarchical, self-contained and easy-to-understand.
 
 ## Internship
 
-1. Reaseach Assistant intern at Tencent AI Lab, Technology and Engineering Group. TEG for short.
-    - Top companies of web services in China: Worldwide famous tech giant of social media, interactive entertainment and cutting edge technologies.
-    - Researching on NLP field, currently focusing on language model pretraining.
+1. Reaseach intern at Tencent AI Lab, Technology and Engineering Group.
+    - Top companies of web in China: Tech giant of social media, interactive entertainment and cutting-edge technologies.
+    - Researching on NLP field, currently focusing on *language model pretraining*.
 
 ## Commit History
 
-Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) from friend of Jike app!
+Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) from friend of JikeApp!
 
 ![](https://ssr-contributions-svg.vercel.app/_/Maxlinn?chart=3dbar&gap=0.6&scale=4&gradient=true&animation=raise&animation_duration=0.01&animation_delay=0.005&format=svg&weeks=30&theme=native&widget_size=midium)
 
