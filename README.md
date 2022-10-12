@@ -11,11 +11,10 @@ Pronunced as 'Maxine' with an extra L. ![](https://komarev.com/ghpvc/?username=M
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxlinn&count_private=true&show_icons=true" alt="wakatime" align="right">
 
-1. Love readable, semantic and concise code.
-2. Love the structuralized more than the non-structuralized. 
-Writings should be hierarchical, self-contained and easy-to-understand.
-3. Love clear and extensible software more than versatile but heavy ones.
-4. Hate repetitive or dull work.
+1. Love semantic and concise code, i.e. pythonic.
+2. Love the structuralized more than the non-structuralized, especially for writings.
+3. Love simple and extensible code more than versatile but ill ones.
+4. Hate dull work.
 
 ## Education
 
@@ -30,7 +29,7 @@ Writings should be hierarchical, self-contained and easy-to-understand.
 
 1. Reaseach intern at Tencent AI Lab, Technology and Engineering Group.
     - Top companies of web in China: Tech giant of social media, interactive entertainment and cutting-edge technologies.
-    - Researching on NLP field, currently focusing on *language model pretraining*.
+    - Currently focusing on *pretraining*.
 
 ## Commit History
 
