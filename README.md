@@ -16,21 +16,6 @@ Pronunced as 'Maxine' with an extra L. ![](https://komarev.com/ghpvc/?username=M
 3. Love simple and extensible code more than versatile but ill ones.
 4. Hate dull work.
 
-## Education
-
-1. Bachelor's Degree in Computer Science, Beijing University of Posts and Telecommunications.
-    - Top schools of CS in China: A-Ranked by the Ministry of Education, "Double First-Class" initiative laureated.
-    - Acquired CS background, including *Data Structures, Operating System, Database System, etc.*
-2. Master student of Artificial Intelligence, Renmin University of China.
-    - Top schools of AI in China: Leading research agency of IR, NLP, CV and other AI-related topics.
-    - Currently focusing on *multi-modality* and *chatbots*.
-
-## Internship
-
-1. Reaseach intern at Tencent AI Lab, Technology and Engineering Group.
-    - Top companies of web in China: Tech giant of social media, interactive entertainment and cutting-edge technologies.
-    - Currently focusing on *pretraining*.
-
 ## Commit History
 
 Thanks to cool project [CatsJuice/ssr-contributions-img](https://github.com/CatsJuice/ssr-contributions-img) from friend of JikeApp!
