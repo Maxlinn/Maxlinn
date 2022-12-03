@@ -6,15 +6,16 @@ Pronunced as 'Maxine' with an extra L. ![](https://komarev.com/ghpvc/?username=M
 
 - You don't stop doing things because you grow old. You grow old because you stop doing things. *@TinyAdapter*
 - Everything seems easy when someone told you how.
+- Better early than late, better late than never.
 
 ## Taste
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxlinn&count_private=true&show_icons=true" alt="wakatime" align="right">
 
-1. Love semantic and concise code, i.e. pythonic.
-2. Love the structuralized more than the non-structuralized, especially for writings.
-3. Love simple and extensible code more than versatile but ill ones.
-4. Hate dull work.
+1. Love semantic and concise code, pythonic supporter.
+2. Love structuralized more than non-structuralized, especially for writings.
+3. Love simple and extensible programs more than fancy but slow ones.
+4. Hate boring work.
 
 ## Commit History
 
