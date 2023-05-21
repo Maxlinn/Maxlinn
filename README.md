@@ -6,7 +6,7 @@ Pronunced as 'Maxine' with an extra L. ![](https://komarev.com/ghpvc/?username=M
 
 - You don't stop doing things because you grow old. You grow old because you stop doing things. *@TinyAdapter*
 - Everything seems easy when someone told you how.
-- Better early than late, better late than never.
+- Done is better than perfect.
 
 ## Taste
 
