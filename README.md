@@ -5,8 +5,9 @@ Pronunced similar to 'Maxine'. Linn is a tribute to Carolus Linnaeus. ![](https:
 ## Beliefs
 
 - You don't stop doing things because you grow old. You grow old because you stop doing things. *@TinyAdapter*
-- Things seem easy when others told you how, but tough when you do it yourself.
-- To implement a feature in either 1 or 100 lines of code, choose 10: enough simplicty with no lack of extensibility.
+- Things seem easy when someone tells you how, but tough when done on your own.
+- To provide a feature in either 1 or 100 lines of code, choose 10: enough simplicty with no lack of extensibility.
+- Code is open, labor is not. Treasure the time of everyone in the community as much as your own.
 
 ## Taste
 
